@@ -587,10 +587,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: f40425f3-974f-45b0-99a1-1b95bde95405
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: OthelloPJ
+  organizationId: dmura
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
